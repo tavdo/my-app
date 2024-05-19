@@ -1,0 +1,34 @@
+body{
+  background-color: rgb(253, 253, 253);
+  padding: 0%;
+  margin: 0%;
+}
+.navbar{
+  width: 100%;
+}
+.navbar .menu{
+  background-color: rgb(255, 255, 255);
+  text-decoration: solid;
+  text-decoration-color: blue;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  height: 100%;
+}
+.menu-item{
+  padding: 0 30px;
+    background-color: rgb(255, 255, 255);
+}
+.navbar .menu .menu-item a{
+  text-decoration: none;
+  width: fit-content;
+  margin: 10px 0;
+}
+.dropdown-menu{
+  display:;
+  width: 100%;
+  background-color: rgb(25, 0, 255); 
+}
